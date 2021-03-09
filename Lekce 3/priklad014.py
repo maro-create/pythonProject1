@@ -8,8 +8,7 @@ class Employee:
     self.position = position
     self.salary = 100000
     self.children = 2
-frantisek = Employee("František Novák", "konstruktér")
-print(frantisek.get_net_salary())
+
 
 
 class Employee:
@@ -24,8 +23,7 @@ class Employee:
     self.position = position
     self.salary = 100000
     self.children = 2
-frantisek = Employee("František Novák", "konstruktér")
-print(frantisek.get_net_salary())
+
 
 
 
