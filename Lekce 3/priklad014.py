@@ -6,8 +6,8 @@ class Employee:
   def __init__(self, name, position):
     self.name = name
     self.position = position
-    self.salary = 100000
-    self.children = 2
+    self.salary = salary
+    self.children = children
 
 
 
@@ -21,8 +21,8 @@ class Employee:
   def __init__(self, name, position):
     self.name = name
     self.position = position
-    self.salary = 100000
-    self.children = 2
+    self.salary = salary
+    self.children = children
 
 
 
