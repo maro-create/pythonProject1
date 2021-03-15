@@ -6,10 +6,9 @@ class Employee:
   def __init__(self, name, position):
     self.name = name
     self.position = position
-    self.salary = 100000
-    self.children = 2
-frantisek = Employee("František Novák", "konstruktér")
-print(frantisek.get_net_salary())
+    self.salary = salary
+    self.children = children
+
 
 
 class Employee:
@@ -22,10 +21,9 @@ class Employee:
   def __init__(self, name, position):
     self.name = name
     self.position = position
-    self.salary = 100000
-    self.children = 2
-frantisek = Employee("František Novák", "konstruktér")
-print(frantisek.get_net_salary())
+    self.salary = salary
+    self.children = children
+
 
 
 
